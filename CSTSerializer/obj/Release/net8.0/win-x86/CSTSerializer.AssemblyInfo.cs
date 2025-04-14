@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSTSerializer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+919b4846f498f27a4cb86b43b44ed0b8725fb522")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSTSerializer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSTSerializer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|c:\\users\\giovanni\\desktop\\repositories\\xv2nxtoolkit\\cstserializer\\cstserializer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|solutionrelative:cstserializer\\cstserializer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|c:\\users\\giovanni\\desktop\\repositories\\xv2nxtoolkit\\cstserializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|solutionrelative:cstserializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CSTSerializer",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\CSTSerializer.csproj",
+              "RelativeDocumentMoniker": "CSTSerializer\\CSTSerializer.csproj",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\CSTSerializer.csproj",
+              "RelativeToolTip": "CSTSerializer\\CSTSerializer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T11:01:46.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\Program.cs",
               "RelativeDocumentMoniker": "CSTSerializer\\Program.cs",
