@@ -1,0 +1,14 @@
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\bin\Release\net8.0\CSTSerializer.exe
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\bin\Release\net8.0\CSTSerializer.deps.json
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\bin\Release\net8.0\CSTSerializer.runtimeconfig.json
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\bin\Release\net8.0\CSTSerializer.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\bin\Release\net8.0\CSTSerializer.pdb
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\CSTSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\CSTSerializer.AssemblyInfoInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\CSTSerializer.AssemblyInfo.cs
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\CSTSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\CSTSerializer.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\refint\CSTSerializer.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\CSTSerializer.pdb
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\CSTSerializer.genruntimeconfig.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\ref\CSTSerializer.dll
