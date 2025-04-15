@@ -1,266 +1,171 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Text;
-using System.Threading.Tasks;
+using System;
 using System.IO;
-namespace XV2Lib
+public class MSG
 {
-    
-        public class MSG
-        {
-            public int type;
-            public msgData[] data;
+    public int type = 512; // Always UTF-32
+    public MSGEntry[] data;
+}
 
-            public string Find(string id)
-            {
-                foreach (msgData m in data)
-                {
-                    if (m.NameID == id)
-                        return m.Lines[0];
-                }
-                return "";
-            }
-
-            public string Find(int id)
-            {
-                foreach (msgData m in data)
-                {
-                    if (m.ID == id)
-                        return m.Lines[0];
-                }
-                return "";
-            }
-        }
-
-        public struct msgData
-        {
-            public string NameID;
-            public int ID;
-            public string[] Lines;
-        }
-
-
-    //msg stream loads msg data
-    public static class MSGStream
+public class MSGEntry
+{
+    public string NameID;
+    public int ID;
+    public string[] Lines;
+}
+public static class MSGHandler
+{
+    public static MSG Read(string filePath)
     {
-        public static MSG Read(string FilePath)
+        MSG msgFile = new MSG();
+        byte[] file = File.ReadAllBytes(filePath);
+
+        int type = BitConverter.ToUInt16(file, 4); // Expected: 0x0200 for UTF-32LE
+        msgFile.type = type;
+
+        int entryCount = BitConverter.ToInt32(file, 8);
+        int mid2Start = BitConverter.ToInt32(file, 16);
+        int mid3Start = BitConverter.ToInt32(file, 20);
+        int mid4Start = BitConverter.ToInt32(file, 28);
+
+        msgFile.data = new MSGEntry[entryCount];
+
+        // MID1 – NameID Pointers
+        for (int i = 0; i < entryCount; i++)
         {
-            MSG file = new MSG();
-            using (BinaryReader br = new BinaryReader(File.Open(FilePath, FileMode.Open)))
-            {
-                br.BaseStream.Seek(4, SeekOrigin.Begin);
-                file.type = br.ReadInt16();
-                br.BaseStream.Seek(2, SeekOrigin.Current);
-                file.data = new msgData[br.ReadInt32()];
+            int pointer = BitConverter.ToInt32(file, 32 + i * 16);
+            int charLength = BitConverter.ToInt32(file, 32 + i * 16 + 4);
+            int byteSize = BitConverter.ToInt32(file, 32 + i * 16 + 8);
 
-                //read NameID
-                int startaddress = br.ReadInt32();
-                for (int i = 0; i < file.data.Length; i++)
-                {
-                    br.BaseStream.Seek(startaddress + (i * 16), SeekOrigin.Begin);
-                    int textaddress = br.ReadInt32();
-                    br.BaseStream.Seek(4, SeekOrigin.Current);
-                    int charCount = br.ReadInt32();
-                    br.BaseStream.Seek(textaddress, SeekOrigin.Begin);
-                    if (file.type == 256)
-                        file.data[i].NameID = Encoding.Unicode.GetString(br.ReadBytes(charCount - 2));
-                    else if (file.type == 512)
-                        file.data[i].NameID = Encoding.UTF32.GetString(br.ReadBytes(charCount - 4));
-                    else
-                        file.data[i].NameID = Encoding.ASCII.GetString(br.ReadBytes(charCount - 1));
-                }
-
-                // read ID
-                br.BaseStream.Seek(16, SeekOrigin.Begin);
-                startaddress = br.ReadInt32();
-                for (int i = 0; i < file.data.Length; i++)
-                {
-                    br.BaseStream.Seek(startaddress + (i * 4), SeekOrigin.Begin);
-                    file.data[i].ID = br.ReadInt32();
-                }
-
-                //read line/s
-                br.BaseStream.Seek(20, SeekOrigin.Begin);
-                startaddress = br.ReadInt32();
-                int address;
-                for (int i = 0; i < file.data.Length; i++)
-                {
-                    br.BaseStream.Seek(startaddress + (i * 8), SeekOrigin.Begin);
-                    file.data[i].Lines = new string[br.ReadInt32()];
-                    address = br.ReadInt32();
-                    int address2;
-                    for (int j = 0; j < file.data[i].Lines.Length; j++)
-                    {
-                        br.BaseStream.Seek(address + (j * 16), SeekOrigin.Begin);
-                        address2 = br.ReadInt32();
-                        br.BaseStream.Seek(4, SeekOrigin.Current);
-                        int charCount = br.ReadInt32();
-                        br.BaseStream.Seek(address2, SeekOrigin.Begin);
-                        if (file.type == 512)
-                            file.data[i].Lines[j] = Encoding.UTF32.GetString(br.ReadBytes(charCount - 4));
-                        else
-                            file.data[i].Lines[j] = Encoding.Unicode.GetString(br.ReadBytes(charCount - 2));
-                    }
-                }
-
-
-                for (int i = 0; i < file.data.Length; i++)
-                {
-                    for (int j = 0; j < file.data[i].Lines.Length; j++)
-                    {
-                        file.data[i].Lines[j] = file.data[i].Lines[j].Replace(@"&apos;", @"'");
-                    }
-                }
-
-            }
-
-            return file;
+            string text = Encoding.UTF32.GetString(file, pointer, byteSize).TrimEnd('\0');
+            msgFile.data[i] = new MSGEntry { NameID = text };
         }
 
-        public static void Write(MSG file, string FilePath)
+        // MID2 – IDs
+        for (int i = 0; i < entryCount; i++)
         {
-            for (int i = 0; i < file.data.Length; i++)
-            {
-                for (int j = 0; j < file.data[i].Lines.Length; j++)
-                {
-                    file.data[i].Lines[j] = file.data[i].Lines[j].Replace(@"'", @"&apos;");
-                }
-            }
-
-            //MessageBox.Show("setup");
-            int byteCount = 0;
-            int TopLength = 32;
-            int Mid1Length = file.data.Length * 16;
-            int Mid2Length = file.data.Length * 4;
-            int Mid3Length = file.data.Length * 8;
-            int lineCount = 0;
-            for (int i = 0; i < file.data.Length; i++)
-                lineCount += file.data[i].Lines.Length;
-            int Mid4Length = lineCount * 16;
-            byteCount = TopLength + Mid1Length + Mid2Length + Mid3Length + Mid4Length;
-            byte[] fileData1 = new byte[byteCount];
-            List<byte> fileDataText = new List<byte>();
-            int TopStart = 0;
-            int Mid1Start = 32;
-            int Mid2Start = Mid1Start + Mid1Length;
-            int Mid3Start = Mid2Start + Mid2Length;
-            int Mid4Start = Mid3Start + Mid3Length;
-            int LastStart = Mid4Start + Mid4Length;
-            //MessageBox.Show("setup");
-            //generate top
-            fileData1[0] = 0x23; fileData1[1] = 0x4D; fileData1[2] = 0x53; fileData1[3] = 0x47;
-            if (file.type == 512)
-            { fileData1[4] = 0x00; fileData1[5] = 0x02; fileData1[6] = 0x02; fileData1[7] = 0x00; }
-            else if (file.type == 256)
-            { fileData1[4] = 0x00; fileData1[5] = 0x01; fileData1[6] = 0x01; fileData1[7] = 0x00; }
-            else
-            { fileData1[4] = 0x00; fileData1[5] = 0x00; fileData1[6] = 0x01; fileData1[7] = 0x00; }
-
-            byte[] pass;
-            pass = BitConverter.GetBytes(file.data.Length);
-            Applybyte(ref fileData1, pass, 8, 4);
-            pass = BitConverter.GetBytes(32);
-            Applybyte(ref fileData1, pass, 12, 4);
-            pass = BitConverter.GetBytes(Mid2Start);
-            Applybyte(ref fileData1, pass, 16, 4);
-            pass = BitConverter.GetBytes(Mid3Start);
-            Applybyte(ref fileData1, pass, 20, 4);
-            pass = BitConverter.GetBytes(file.data.Length);
-            Applybyte(ref fileData1, pass, 24, 4);
-            pass = BitConverter.GetBytes(Mid4Start);
-            Applybyte(ref fileData1, pass, 28, 4);
-            //MessageBox.Show("setup 1");
-            //generate Mid section 1
-            for (int i = 0; i < file.data.Length; i++)
-            {
-                Applybyte(ref fileData1,
-                          GenWordsBytes(file.data[i].NameID, file.type, ref fileDataText, LastStart),
-                          Mid1Start + (i * 16),
-                          16);
-            }
-            //MessageBox.Show("setup 2");
-            //generate Mid section 2
-            for (int i = 0; i < file.data.Length; i++)
-            {
-                Applybyte(ref fileData1, BitConverter.GetBytes(file.data[i].ID), Mid2Start + (i * 4), 4);
-            }
-            //MessageBox.Show("setup 3 4");
-            //generate Mid section 3 & 4
-            int ListCount = 0;
-            int address3;
-            for (int i = 0; i < file.data.Length; i++)
-            {
-                address3 = Mid4Start + (ListCount * 16);
-                for (int j = 0; j < file.data[i].Lines.Length; j++)
-                {
-                    int t;
-                    if (file.type != 512)
-                        t = 256;
-                    else
-                        t = 512;
-                            
-
-                    Applybyte(ref fileData1,
-                          GenWordsBytes(file.data[i].Lines[j], t , ref fileDataText, LastStart),
-                          Mid4Start + (ListCount * 16),
-                          16);
-                    ListCount++;
-                }
-                Applybyte(ref fileData1, BitConverter.GetBytes(file.data[i].Lines.Length), Mid3Start + (i * 8), 4);
-                Applybyte(ref fileData1, BitConverter.GetBytes(address3), Mid3Start + (i * 8) + 4, 4);
-            }
-            //MessageBox.Show("setup final");
-            List<byte> finalize = new List<byte>();
-            finalize.AddRange(fileData1);
-            finalize.AddRange(fileDataText);
-
-            FileStream fs = new FileStream(FilePath, FileMode.Create);
-            fs.Write(finalize.ToArray(), 0, finalize.Count);
-            fs.Close();
-
+            msgFile.data[i].ID = BitConverter.ToInt32(file, mid2Start + i * 4);
         }
 
-        public static void Applybyte(ref byte[] file, byte[] data, int pos, int count)
+        // MID3 + MID4 – Lines
+        for (int i = 0; i < entryCount; i++)
         {
-            for (int i = 0; i < count; i++)
-                file[pos + i] = data[i];
+            int lineCount = BitConverter.ToInt32(file, mid3Start + i * 8);
+            int linePointer = BitConverter.ToInt32(file, mid3Start + i * 8 + 4);
+
+            msgFile.data[i].Lines = new string[lineCount];
+
+            for (int j = 0; j < lineCount; j++)
+            {
+                int offset = linePointer + j * 16;
+                int textPointer = BitConverter.ToInt32(file, offset);
+                int charLen = BitConverter.ToInt32(file, offset + 4);
+                int byteLen = BitConverter.ToInt32(file, offset + 8);
+
+                string line = Encoding.UTF32.GetString(file, textPointer, byteLen).TrimEnd('\0');
+                msgFile.data[i].Lines[j] = line;
+            }
         }
 
-        public static byte[] GenWordsBytes(string Line, int type, ref List<byte> text, int bCount)
+        return msgFile;
+    }
+
+    public static void Write(MSG msg, string filePath)
+    {
+        foreach (var entry in msg.data)
         {
-
-            byte[] charArray;
-            if (type == 512)
+            for (int i = 0; i < entry.Lines.Length; i++)
             {
-                charArray = new byte[(Line.Length + 1) * 4];
-                charArray = Encoding.UTF32.GetBytes(Line + "\0");
-
+                entry.Lines[i] = entry.Lines[i].Replace("'", "&apos;");
             }
-            else if (type == 256)
-            {
-                charArray = new byte[(Line.Length + 1) * 2];
-                charArray = Encoding.Unicode.GetBytes(Line + "\0");
-
-            }
-            else
-            {
-                charArray = new byte[Line.Length + 1];
-                charArray = Encoding.ASCII.GetBytes(Line + "\0");
-            }
-
-            byte[] AddressInfo = { 0x00, 0x00, 0x00, 0x00,
-                                   0x00, 0x00, 0x00, 0x00,
-                                   0x00, 0x00, 0x00, 0x00,
-                                   0x00, 0x00, 0x00, 0x00 };
-            Applybyte(ref AddressInfo, BitConverter.GetBytes(bCount + text.Count), 0, 4); //address of text
-            Applybyte(ref AddressInfo, BitConverter.GetBytes(Line.Length), 4, 4);
-            Applybyte(ref AddressInfo, BitConverter.GetBytes(charArray.Length), 8, 4);
-
-            text.AddRange(charArray);
-
-            return AddressInfo;
         }
 
+        int entryCount = msg.data.Length;
+        int lineCount = 0;
+        foreach (var entry in msg.data)
+            lineCount += entry.Lines.Length;
+
+        int headerSize = 32;
+        int mid1Size = entryCount * 16;
+        int mid2Size = entryCount * 4;
+        int mid3Size = entryCount * 8;
+        int mid4Size = lineCount * 16;
+        int headerTotalSize = headerSize + mid1Size + mid2Size + mid3Size + mid4Size;
+
+        byte[] header = new byte[headerTotalSize];
+        List<byte> textData = new List<byte>();
+
+        int mid1Start = 32;
+        int mid2Start = mid1Start + mid1Size;
+        int mid3Start = mid2Start + mid2Size;
+        int mid4Start = mid3Start + mid3Size;
+        int textStart = mid4Start + mid4Size;
+
+        // Top Header
+        header[0] = 0x23; header[1] = 0x4D; header[2] = 0x53; header[3] = 0x47; // #MSG
+        header[4] = 0x00; header[5] = 0x02; // 0x0200 => UTF-32 LE
+        header[6] = 0x02; header[7] = 0x00;
+
+        ApplyBytes(header, BitConverter.GetBytes(entryCount), 8);     // Entry count
+        ApplyBytes(header, BitConverter.GetBytes(32), 12);            // Mid1 start
+        ApplyBytes(header, BitConverter.GetBytes(mid2Start), 16);
+        ApplyBytes(header, BitConverter.GetBytes(mid3Start), 20);
+        ApplyBytes(header, BitConverter.GetBytes(entryCount), 24);
+        ApplyBytes(header, BitConverter.GetBytes(mid4Start), 28);
+
+        // Mid1 – NameID
+        for (int i = 0; i < entryCount; i++)
+        {
+            byte[] nameInfo = EncodeString(msg.data[i].NameID, ref textData, textStart);
+            ApplyBytes(header, nameInfo, mid1Start + i * 16);
+        }
+
+        // Mid2 – IDs
+        for (int i = 0; i < entryCount; i++)
+        {
+            ApplyBytes(header, BitConverter.GetBytes(msg.data[i].ID), mid2Start + i * 4);
+        }
+
+        // Mid3 + Mid4 – Lines
+        int lineCounter = 0;
+        for (int i = 0; i < entryCount; i++)
+        {
+            int lineAddr = mid4Start + (lineCounter * 16);
+            foreach (var line in msg.data[i].Lines)
+            {
+                byte[] lineInfo = EncodeString(line, ref textData, textStart);
+                ApplyBytes(header, lineInfo, mid4Start + (lineCounter * 16));
+                lineCounter++;
+            }
+
+            ApplyBytes(header, BitConverter.GetBytes(msg.data[i].Lines.Length), mid3Start + i * 8);
+            ApplyBytes(header, BitConverter.GetBytes(lineAddr), mid3Start + i * 8 + 4);
+        }
+
+        // Combine and Write
+        List<byte> final = new List<byte>();
+        final.AddRange(header);
+        final.AddRange(textData);
+        File.WriteAllBytes(filePath, final.ToArray());
+    }
+
+    private static byte[] EncodeString(string text, ref List<byte> textBuffer, int baseOffset)
+    {
+        byte[] encoded = Encoding.UTF32.GetBytes(text + "\0");
+        int charCount = text.Length;
+
+        byte[] meta = new byte[16];
+        ApplyBytes(meta, BitConverter.GetBytes(baseOffset + textBuffer.Count), 0); // Offset
+        ApplyBytes(meta, BitConverter.GetBytes(charCount), 4);                     // Char count
+        ApplyBytes(meta, BitConverter.GetBytes(encoded.Length), 8);               // Byte size
+
+        textBuffer.AddRange(encoded);
+        return meta;
+    }
+
+    private static void ApplyBytes(byte[] target, byte[] data, int offset)
+    {
+        Array.Copy(data, 0, target, offset, data.Length);
     }
 }

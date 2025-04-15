@@ -15,7 +15,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml;
 using XV2INSNX.Properties;
-using XV2Lib;
 
 namespace XV2INSNX
 {
@@ -147,21 +146,20 @@ namespace XV2INSNX
 
             // MSG
             string msgPath = Path.Combine(dataPath, "msg", $"proper_noun_character_name_{Settings.Default.language}.msg");
-            MSG msgFile = MSGStream.Read(msgPath);
+            MSG msgFile = MSGHandler.Read(msgPath);
             var entries = msgFile.data.ToList();
 
             int lastId = entries.Count;
-            int endId = int.Parse(entries.Last().NameID.Substring(entries.Last().NameID.Length - 3));
 
-            entries.Add(new msgData
+            entries.Add(new MSGEntry
             {
                 ID = lastId,
-                NameID = $"chara_{file.EntryName}_{endId:000}",
+                NameID = $"chara_{file.EntryName}_000",
                 Lines = new[] { file.ModName }
             });
 
             msgFile.data = entries.ToArray();
-            MSGStream.Write(msgFile, msgPath);
+            MSGHandler.Write(msgFile, msgPath);
 
             listBox1.Items.Add(file.ModName);
 

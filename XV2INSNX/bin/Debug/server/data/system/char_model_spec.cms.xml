@@ -2788,38 +2788,21 @@
         <AI value="../CL4/CL4" />
         <STR_50 value="../EIB/EIB" />
     </Entry>
-    <Entry id="0x12d" name="GBG">
-        <U_10 value="0x2" />
-        <LOAD_CAM_DIST value="0x0" />
-        <U_16 value="0xc801" />
-        <U_18 value="0xffff" />
-        <U_1A value="0x400" />
-        <U_1C value="0x68002000" />
-        <CHARACTER value="GBG" />
-        <EAN value="GBG" />
-        <FCE_EAN value="GBG" />
-        <FCE value="" />
-        <CAM_EAN value="GBG" />
-        <BAC value="GBG" />
-        <BCM value="GBG" />
-        <AI value="../CL4/CL4" />
-        <STR_50 value="GBG" />
-    </Entry>
 
-<Entry id="0x12E" name="GRG">
-        <U_10 value="0x2" />
-        <LOAD_CAM_DIST value="0x0" />
+<Entry id="0x12D" name="FBZ">
+        <U_10 value="0x1" />
+        <LOAD_CAM_DIST value="0x700" />
         <U_16 value="0xc801" />
         <U_18 value="0xffff" />
-        <U_1A value="0x400" />
-        <U_1C value="0x0" />
-        <CHARACTER value="GRG" />
-        <EAN value="GRG" />
-        <FCE_EAN value="GRG" />
+        <U_1A value="0x200" />
+        <U_1C value="0x6e006f00" />
+        <CHARACTER value="FBZ" />
+        <EAN value="FBZ" />
+        <FCE_EAN value="FBZ" />
         <FCE value="" />
-        <CAM_EAN value="GRG" />
-        <BAC value="GRG" />
-        <BCM value="GRG" />
-        <AI value="../NAP/NAP" />
-        <STR_50 value="GRG" />
+        <CAM_EAN value="FBZ" />
+        <BAC value="FBZ" />
+        <BCM value="FBZ" />
+        <AI value="../CL4/CL4" />
+        <STR_50 value="FBZ" />
     </Entry></CMS>
