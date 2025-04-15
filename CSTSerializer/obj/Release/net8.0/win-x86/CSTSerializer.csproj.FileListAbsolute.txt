@@ -12,3 +12,4 @@ C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\ne
 C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\win-x86\CSTSerializer.pdb
 C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\win-x86\CSTSerializer.genruntimeconfig.cache
 C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\win-x86\ref\CSTSerializer.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\CSTSerializer\obj\Release\net8.0\win-x86\CSTSerializer.sourcelink.json

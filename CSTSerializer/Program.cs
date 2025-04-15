@@ -35,7 +35,7 @@ namespace CSTSerializer
     class Program
     {
         const int HEADER_SIZE = 16;
-        const int ENTRY_SIZE = 56;
+        const int ENTRY_SIZE = 52;
         const int NAME_SIZE = 4;
 
         static void Main(string[] args)

@@ -3,12 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|c:\\users\\giovanni\\desktop\\repositories\\xv2nxtoolkit\\cstserializer\\cstserializer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|solutionrelative:cstserializer\\cstserializer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|c:\\users\\giovanni\\desktop\\repositories\\xv2nxtoolkit\\xv2insnx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|solutionrelative:xv2insnx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\xv2insnx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|solutionrelative:xv2insnx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\xv2insnx\\xv2lib\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|solutionrelative:xv2insnx\\xv2lib\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\xv2insnx\\x2m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|solutionrelative:xv2insnx\\x2m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\xv2insnx\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|solutionrelative:xv2insnx\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\xv2insnx\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|solutionrelative:xv2insnx\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|XV2INSNX||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\xv2insnx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|solutionrelative:xv2insnx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|c:\\users\\giovanni\\desktop\\repositories\\xv2nxtoolkit\\cstserializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|solutionrelative:cstserializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|c:\\users\\giovanni\\desktop\\repositories\\xv2nxtoolkit\\cstserializer\\cstserializer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|solutionrelative:cstserializer\\cstserializer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\xv2insnx\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9440BDF-3D7A-41D1-A7F6-E93FDCAB48A2}|XV2INSNX\\XV2INSNX.csproj|solutionrelative:xv2insnx\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|c:\\users\\giovanni\\desktop\\repositories\\xv2nxtoolkit\\cstserializer\\cstserializer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BFEE280D-7220-4057-AD1D-93E4C7D45A14}|CSTSerializer\\CSTSerializer.csproj|solutionrelative:cstserializer\\cstserializer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +62,146 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Form1.cs",
+              "RelativeDocumentMoniker": "XV2INSNX\\Form1.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Form1.cs",
+              "RelativeToolTip": "XV2INSNX\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:22:19.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "XV2INSNX\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "XV2INSNX\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:55:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSG.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\XV2Lib\\MSG.cs",
+              "RelativeDocumentMoniker": "XV2INSNX\\XV2Lib\\MSG.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\XV2Lib\\MSG.cs",
+              "RelativeToolTip": "XV2INSNX\\XV2Lib\\MSG.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwIIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:36:23.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XV2INSNX",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\XV2INSNX.csproj",
+              "RelativeDocumentMoniker": "XV2INSNX\\XV2INSNX.csproj",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\XV2INSNX.csproj",
+              "RelativeToolTip": "XV2INSNX\\XV2INSNX.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T14:41:53.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Form1.cs",
+              "RelativeDocumentMoniker": "XV2INSNX\\Form1.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "XV2INSNX\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:21:16.922Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Program.cs",
+              "RelativeDocumentMoniker": "XV2INSNX\\Program.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Program.cs",
+              "RelativeToolTip": "XV2INSNX\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:27:55.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Form2.cs",
+              "RelativeDocumentMoniker": "XV2INSNX\\Form2.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Form2.cs [Progettazione]",
+              "RelativeToolTip": "XV2INSNX\\Form2.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:41:09.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Form2.cs",
+              "RelativeDocumentMoniker": "XV2INSNX\\Form2.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\Form2.cs",
+              "RelativeToolTip": "XV2INSNX\\Form2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:43:07.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "X2M.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\X2M.cs",
+              "RelativeDocumentMoniker": "XV2INSNX\\X2M.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\XV2INSNX\\X2M.cs",
+              "RelativeToolTip": "XV2INSNX\\X2M.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwI4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:26:00.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CSTSerializer.csproj",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\CSTSerializer.csproj",
+              "RelativeDocumentMoniker": "CSTSerializer\\CSTSerializer.csproj",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\CSTSerializer.csproj",
+              "RelativeToolTip": "CSTSerializer\\CSTSerializer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T16:20:39.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\Program.cs",
+              "RelativeDocumentMoniker": "CSTSerializer\\Program.cs",
+              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\Program.cs",
+              "RelativeToolTip": "CSTSerializer\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAowCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:37:02.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CSTSerializer",
               "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\CSTSerializer.csproj",
               "RelativeDocumentMoniker": "CSTSerializer\\CSTSerializer.csproj",
               "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\CSTSerializer.csproj",
               "RelativeToolTip": "CSTSerializer\\CSTSerializer.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-14T11:01:46.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\Program.cs",
-              "RelativeDocumentMoniker": "CSTSerializer\\Program.cs",
-              "ToolTip": "C:\\Users\\Giovanni\\Desktop\\Repositories\\XV2NXToolkit\\CSTSerializer\\Program.cs",
-              "RelativeToolTip": "CSTSerializer\\Program.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAkwLkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T10:37:02.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T11:01:46.983Z"
             }
           ]
         }

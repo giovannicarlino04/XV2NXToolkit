@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CSO>
+    <CsoEntry>
+        <CHAR_ID value="0x0" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_GOK_SE" />
+        <VOX value="CAR_BTL_GOK_VOX" />
+        <AMK value="GOK/GOK" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x0" />
+        <COSTUME_ID value="0xe" />
+        <SE value="CAR_BTL_GOK_SE" />
+        <VOX value="CAR_BTL_GNY_VOX" />
+        <AMK value="GOK/GOK" />
+        <SKILLS value="GNY" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_BDK_VOX" />
+        <AMK value="BDK/BDK" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1" />
+        <COSTUME_ID value="0x3" />
+        <SE value="" />
+        <VOX value="CAR_BTL_MBD_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x2" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GK4_VOX" />
+        <AMK value="GK4/GK4" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_GOD_SE" />
+        <VOX value="CAR_BTL_GOK_VOX" />
+        <AMK value="GOD/GOD" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x4" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_GKG_SE" />
+        <VOX value="CAR_BTL_GKG_VOX" />
+        <AMK value="GKG/GKG" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x5" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GTG_VOX" />
+        <AMK value="GTG/GTG" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x6" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GHS_VOX" />
+        <AMK value="GHS/GHS" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x7" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GHM_VOX" />
+        <AMK value="GHM/GHM" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x8" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GHL_VOX" />
+        <AMK value="GHL/GHL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x9" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_PIC_SE" />
+        <VOX value="CAR_BTL_PIC_VOX" />
+        <AMK value="PIC/PIC" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xa" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_KLL_SE" />
+        <VOX value="CAR_BTL_KLL_VOX" />
+        <AMK value="KLL/KLL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xb" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_YMC_SE" />
+        <VOX value="CAR_BTL_YMC_VOX" />
+        <AMK value="YMC/YMC" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xc" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TSH_SE" />
+        <VOX value="CAR_BTL_TSH_VOX" />
+        <AMK value="TSH/TSH" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_RAD_SE" />
+        <VOX value="CAR_BTL_RAD_VOX" />
+        <AMK value="RAD/RAD" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xe" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_SBM_SE" />
+        <VOX value="CAR_BTL_SBM_VOX" />
+        <AMK value="SBM/SBM" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xf" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_NAP_SE" />
+        <VOX value="CAR_BTL_NAP_VOX" />
+        <AMK value="NAP/NAP" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x10" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_VGT_SE" />
+        <VOX value="CAR_BTL_VGT_VOX" />
+        <AMK value="VGT/VGT" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x10" />
+        <COSTUME_ID value="0xb" />
+        <SE value="CAR_BTL_VGT_SE" />
+        <VOX value="CAR_BTL_GNY_VOX" />
+        <AMK value="VGT/VGT" />
+        <SKILLS value="GNY" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x11" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_VG4_VOX" />
+        <AMK value="VG4/VG4" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x12" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GRD_VOX" />
+        <AMK value="GRD/GRD" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x13" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_BAT_VOX" />
+        <AMK value="BAT/BAT" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x14" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_RCM_VOX" />
+        <AMK value="RCM/RCM" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x15" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_JES_VOX" />
+        <AMK value="JES/JES" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x16" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GNY_VOX" />
+        <AMK value="GNY/GNY" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x16" />
+        <COSTUME_ID value="0x2" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GOK_VOX" />
+        <AMK value="GNY/GNY" />
+        <SKILLS value="GOK" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x16" />
+        <COSTUME_ID value="0x3" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GNY_VOX" />
+        <AMK value="GNY/GNY" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x16" />
+        <COSTUME_ID value="0x5" />
+        <SE value="" />
+        <VOX value="CAR_BTL_TRX_VOX" />
+        <AMK value="GNY/GNY" />
+        <SKILLS value="TRX" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x16" />
+        <COSTUME_ID value="0x6" />
+        <SE value="" />
+        <VOX value="CAR_BTL_ZMS_VOX" />
+        <AMK value="GNY/GNY" />
+        <SKILLS value="ZMS" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x17" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_FRZ_SE" />
+        <VOX value="CAR_BTL_FRZ_VOX" />
+        <AMK value="FRZ/FRZ" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x18" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_FR4_SE" />
+        <VOX value="CAR_BTL_FRZ_VOX" />
+        <AMK value="FR4/FR4" />
+        <SKILLS value="FRZ" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x19" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_FRZ_VOX" />
+        <AMK value="FR5/FR5" />
+        <SKILLS value="FRZ" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1a" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TRX_SE" />
+        <VOX value="CAR_BTL_TRX_VOX" />
+        <AMK value="TRX/TRX" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1a" />
+        <COSTUME_ID value="0x7" />
+        <SE value="CAR_BTL_TRX_SE" />
+        <VOX value="CAR_BTL_TRX_VOX" />
+        <AMK value="TRX/TRX" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1a" />
+        <COSTUME_ID value="0x9" />
+        <SE value="CAR_BTL_TRX_SE" />
+        <VOX value="CAR_BTL_GNY_VOX" />
+        <AMK value="TRX/TRX" />
+        <SKILLS value="GNY" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1b" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_TRS_VOX" />
+        <AMK value="TRS/TRS" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1c" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_G17_VOX" />
+        <AMK value="G17/G17" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1d" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_S17_VOX" />
+        <AMK value="S17/S17" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1e" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_G18_VOX" />
+        <AMK value="G18/G18" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x1f" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_CL3_VOX" />
+        <AMK value="CL3/CL3" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x20" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_CL3_VOX" />
+        <AMK value="CL4/CL4" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x21" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_CLJ_VOX" />
+        <AMK value="CLJ/CLJ" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x22" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_VDL_VOX" />
+        <AMK value="VDL/VDL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x23" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_BUL_VOX" />
+        <AMK value="BUL/BUL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x24" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_BUM_VOX" />
+        <AMK value="BUM/BUM" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x25" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_BUS_SE" />
+        <VOX value="CAR_BTL_BUS_VOX" />
+        <AMK value="BUS/BUS" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x26" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GTX_VOX" />
+        <AMK value="GTX/GTX" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x27" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_VTO_VOX" />
+        <AMK value="VTO/VTO" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x28" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_BRL_VOX" />
+        <AMK value="BRL/BRL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x29" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_BLS_VOX" />
+        <AMK value="BLS/BLS" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x2a" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_PAN_VOX" />
+        <AMK value="PAN/PAN" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x2b" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x2c" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_OSV_SE" />
+        <VOX value="CAR_BTL_OSV_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x2d" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_OSB_SE" />
+        <VOX value="CAR_BTL_OSB_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x2e" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_OBB_SE" />
+        <VOX value="CAR_BTL_OBB_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x30" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_SD3_SE" />
+        <VOX value="CAR_BTL_SD3_VOX" />
+        <AMK value="SD3/SD3" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x31" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_SD4_SE" />
+        <VOX value="CAR_BTL_SD4_VOX" />
+        <AMK value="SD4/SD4" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x32" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_SD1_VOX" />
+        <AMK value="SD1/SD1" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x33" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GGT_VOX" />
+        <AMK value="GGT/GGT" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x34" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_STN_VOX" />
+        <AMK value="STN/STN" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x35" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_DMG_VOX" />
+        <AMK value="DMG/DMG" />
+        <SKILLS value="DMG" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x36" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x38" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x39" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3a" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3b" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_APL_VOX" />
+        <AMK value="APL/APL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3b" />
+        <COSTUME_ID value="0x1" />
+        <SE value="" />
+        <VOX value="CAR_BTL_ORL_VOX" />
+        <AMK value="APL/APL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3b" />
+        <COSTUME_ID value="0x2" />
+        <SE value="" />
+        <VOX value="CAR_BTL_APL_VOX" />
+        <AMK value="APL/APL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3b" />
+        <COSTUME_ID value="0x3" />
+        <SE value="" />
+        <VOX value="CAR_BTL_APL_VOX" />
+        <AMK value="APL/APL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3b" />
+        <COSTUME_ID value="0x4" />
+        <SE value="" />
+        <VOX value="CAR_BTL_ORL_VOX" />
+        <AMK value="APL/APL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3c" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_RSB_VOX" />
+        <AMK value="RSB/RSB" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3c" />
+        <COSTUME_ID value="0x1" />
+        <SE value="" />
+        <VOX value="CAR_BTL_NAB_VOX" />
+        <AMK value="RSB/RSB" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3c" />
+        <COSTUME_ID value="0x2" />
+        <SE value="" />
+        <VOX value="CAR_BTL_RSB_VOX" />
+        <AMK value="RSB/RSB" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3c" />
+        <COSTUME_ID value="0x3" />
+        <SE value="" />
+        <VOX value="CAR_BTL_NAB_VOX" />
+        <AMK value="RSB/RSB" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3d" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3e" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_MIR_VOX" />
+        <AMK value="MIR/MIR" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x3f" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_TOW_VOX" />
+        <AMK value="TOW/TOW" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x41" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_WIS_VOX" />
+        <AMK value="WIS/WIS" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x42" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x43" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_JCO_VOX" />
+        <AMK value="JCO/JCO" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x49" />
+        <COSTUME_ID value="0x1" />
+        <SE value="" />
+        <VOX value="CAR_BTL_STN_VOX" />
+        <AMK value="STN/STN" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x4a" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_OSN_SE" />
+        <VOX value="CAR_BTL_OSN_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x4b" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TRX_SE" />
+        <VOX value="CAR_BTL_CL1_VOX" />
+        <AMK value="CL1/CL1" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x50" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_GOK_SE" />
+        <VOX value="CAR_BTL_GGK_VOX" />
+        <AMK value="GGK/GGK" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x51" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_VGT_SE" />
+        <VOX value="CAR_BTL_GVG_VOX" />
+        <AMK value="GVG/GVG" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x52" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_FR4_SE" />
+        <VOX value="CAR_BTL_GFR_VOX" />
+        <AMK value="GFR/GFR" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x53" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_G16_VOX" />
+        <AMK value="G16/G16" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x54" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_COL_VOX" />
+        <AMK value="COL/COL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x54" />
+        <COSTUME_ID value="0x1" />
+        <SE value="" />
+        <VOX value="CAR_BTL_COL_VOX" />
+        <AMK value="COL/COL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x55" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_CO2_VOX" />
+        <AMK value="CO2/CO2" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x56" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_GHF_VOX" />
+        <AMK value="GHF/GHF" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x57" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_TLS_VOX" />
+        <AMK value="TLS/TLS" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x58" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TRX_SE" />
+        <VOX value="CAR_BTL_JNB_VOX" />
+        <AMK value="JNB/JNB" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x64" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_HUM_SE" />
+        <VOX value="CAR_BTL_HUM_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x65" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_HUF_SE" />
+        <VOX value="CAR_BTL_HUF_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x66" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_SYM_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x67" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_SYF_SE" />
+        <VOX value="CAR_BTL_SYF_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x68" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_NMC_SE" />
+        <VOX value="CAR_BTL_NMC_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x69" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_FRI_SE" />
+        <VOX value="CAR_BTL_FRI_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x6a" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_MAM_SE" />
+        <VOX value="CAR_BTL_MAM_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x6b" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_MAF_SE" />
+        <VOX value="CAR_BTL_MAF_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x6e" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TE0_SE" />
+        <VOX value="CAR_BTL_TE0_VOX" />
+        <AMK value="TE0/TE0" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x6f" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TE1_SE" />
+        <VOX value="CAR_BTL_TE1_VOX" />
+        <AMK value="TE1/TE1" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x70" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_EL0_SE" />
+        <VOX value="CAR_BTL_EL0_VOX" />
+        <AMK value="EL0/EL0" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x71" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_TWP_VOX" />
+        <AMK value="TWP/TWP" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x72" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TWT_SE" />
+        <VOX value="CAR_BTL_TWT_VOX" />
+        <AMK value="TWT/TWT" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x73" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_THJ_SE" />
+        <VOX value="CAR_BTL_THJ_VOX" />
+        <AMK value="THJ/THJ" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x74" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_THG_SE" />
+        <VOX value="CAR_BTL_THG_VOX" />
+        <AMK value="THG/THG" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x75" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_THC_VOX" />
+        <AMK value="THC/THC" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x76" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_THK_VOX" />
+        <AMK value="THK/THK" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x78" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_GG1_SE" />
+        <VOX value="CAR_BTL_GG1_VOX" />
+        <AMK value="GG1/GG1" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x79" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_SLG_SE" />
+        <VOX value="CAR_BTL_SLG_VOX" />
+        <AMK value="SLG/SLG" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x7a" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_ZBN_SE" />
+        <VOX value="CAR_BTL_ZBN_VOX" />
+        <AMK value="ZBN/ZBN" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x7b" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_DDR_VOX" />
+        <AMK value="DDR/DDR" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x7c" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_VGT_SE" />
+        <VOX value="CAR_BTL_NIL_VOX" />
+        <AMK value="NIL/NIL" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x7d" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_MRN_VOX" />
+        <AMK value="" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x7e" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_HIT_SE" />
+        <VOX value="CAR_BTL_HIT_VOX" />
+        <AMK value="HIT/HIT" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x82" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_JNB_SE" />
+        <VOX value="CAR_BTL_JNB_VOX" />
+        <AMK value="JNB/JNB" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x83" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_GOK_SE" />
+        <VOX value="CAR_BTL_GKB_VOX" />
+        <AMK value="GKB/GKB" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x84" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TRX_SE" />
+        <VOX value="CAR_BTL_TRF_VOX" />
+        <AMK value="TRF/TRF" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x85" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_FRS_VOX" />
+        <AMK value="FRS/FRS" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x85" />
+        <COSTUME_ID value="0x1" />
+        <SE value="" />
+        <VOX value="CAR_BTL_FS2_VOX" />
+        <AMK value="FRS/FRS" />
+        <SKILLS value="FS2" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x86" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_CAB_VOX" />
+        <AMK value="CAB/CAB" />
+        <SKILLS value="" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x87" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_HIT_SE" />
+        <VOX value="CAR_BTL_HIT_VOX" />
+        <AMK value="HIT/HIT" />
+        <SKILLS value="HIT" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x88" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_VDS_SE" />
+        <VOX value="CAR_BTL_VDS_VOX" />
+        <AMK value="VDS/VDS" />
+        <SKILLS value="VDS" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x89" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_CMP_VOX" />
+        <AMK value="CMP/CMP" />
+        <SKILLS value="CMP" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x8a" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_ZMS_SE" />
+        <VOX value="CAR_BTL_ZMS_VOX" />
+        <AMK value="ZMS/ZMS" />
+        <SKILLS value="ZMS" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x8a" />
+        <COSTUME_ID value="0x1" />
+        <SE value="CAR_BTL_ZMS_SE" />
+        <VOX value="CAR_BTL_ZMSG_VOX" />
+        <AMK value="ZMS/ZMS" />
+        <SKILLS value="GOK" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x8a" />
+        <COSTUME_ID value="0x2" />
+        <SE value="CAR_BTL_ZMS_SE" />
+        <VOX value="CAR_BTL_GNY_VOX" />
+        <AMK value="ZMS/ZMS" />
+        <SKILLS value="GNY" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x8b" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_GBR_SE" />
+        <VOX value="CAR_BTL_GBR_VOX" />
+        <AMK value="GBR/GBR" />
+        <SKILLS value="GBR" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x8c" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_BJK_VOX" />
+        <AMK value="BJK/BJK" />
+        <SKILLS value="BJK" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x8d" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_VTB_VOX" />
+        <AMK value="VTB/VTB" />
+        <SKILLS value="VTB" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x8e" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_ZMS_SE" />
+        <VOX value="CAR_BTL_ZMG_VOX" />
+        <AMK value="ZMG/ZMG" />
+        <SKILLS value="ZMG" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x8f" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_ZMS_SE" />
+        <VOX value="CAR_BTL_ZMD_VOX" />
+        <AMK value="ZMD/ZMD" />
+        <SKILLS value="ZMD" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x90" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_BUU_SE" />
+        <VOX value="CAR_BTL_BUU_VOX" />
+        <AMK value="BUU/BUU" />
+        <SKILLS value="BUU" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x91" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_DBR_SE" />
+        <VOX value="CAR_BTL_DBR_VOX" />
+        <AMK value="DBR/DBR" />
+        <SKILLS value="DBR" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x92" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_G13_SE" />
+        <VOX value="CAR_BTL_G13_VOX" />
+        <AMK value="G13/G13" />
+        <SKILLS value="G13" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x93" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TPO_SE" />
+        <VOX value="CAR_BTL_TPO_VOX" />
+        <AMK value="TPO/TPO" />
+        <SKILLS value="TPO" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x94" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_R17_VOX" />
+        <AMK value="R17/R17" />
+        <SKILLS value="R17" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x95" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_JRN_VOX" />
+        <AMK value="JRN/JRN" />
+        <SKILLS value="JRN" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x96" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_FUU_SE" />
+        <VOX value="CAR_BTL_FUU_VOX" />
+        <AMK value="FUU/FUU" />
+        <SKILLS value="FUU" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x97" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_GKS_SE" />
+        <VOX value="CAR_BTL_GKS_VOX" />
+        <AMK value="GKS/GKS" />
+        <SKILLS value="GKS" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x98" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_KFL_SE" />
+        <VOX value="CAR_BTL_KFL_VOX" />
+        <AMK value="KFL/KFL" />
+        <SKILLS value="KFL" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x99" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_SB2_VOX" />
+        <AMK value="SB2/SB2" />
+        <SKILLS value="SB2" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x9a" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_TM0_VOX" />
+        <AMK value="TM0/TM0" />
+        <SKILLS value="TM0" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x9b" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_TM1_SE" />
+        <VOX value="CAR_BTL_TM1_VOX" />
+        <AMK value="TM1/TM1" />
+        <SKILLS value="TM1" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x9c" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_NI0_SE" />
+        <VOX value="CAR_BTL_NI0_VOX" />
+        <AMK value="NI0/NI0" />
+        <SKILLS value="NI0" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x9d" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_NI1_VOX" />
+        <AMK value="NI1/NI1" />
+        <SKILLS value="NI1" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0x9e" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_NI2_SE" />
+        <VOX value="CAR_BTL_NI2_VOX" />
+        <AMK value="NI2/NI2" />
+        <SKILLS value="Ni2" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xc9" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_FOK_SE" />
+        <VOX value="CAR_BTL_FOK_VOX" />
+        <AMK value="FOK/FOK" />
+        <SKILLS value="FOK" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xca" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_FOD_VOX" />
+        <AMK value="FOD/FOD" />
+        <SKILLS value="FOD" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xcb" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_FOV_SE" />
+        <VOX value="CAR_BTL_FOV_VOX" />
+        <AMK value="FOV/FOV" />
+        <SKILLS value="FOV" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xcc" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_CL2_VOX" />
+        <AMK value="" />
+        <SKILLS value="CL2" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xce" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_FIO_SE" />
+        <VOX value="CAR_BTL_FIO_VOX" />
+        <AMK value="FIO/FIO" />
+        <SKILLS value="FIO" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xcf" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_FIT_SE" />
+        <VOX value="CAR_BTL_FIT_VOX" />
+        <AMK value="FIT/FIT" />
+        <SKILLS value="FIT" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd0" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_FIG_VOX" />
+        <AMK value="FIG/FIG" />
+        <SKILLS value="FIG" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd1" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_SIG_SE" />
+        <VOX value="CAR_BTL_SIG_VOX" />
+        <AMK value="SIG/SIG" />
+        <SKILLS value="SIG" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd2" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_SIP_VOX" />
+        <AMK value="SIP/SIP" />
+        <SKILLS value="SIP" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd3" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_SIO_SE" />
+        <VOX value="CAR_BTL_SIO_VOX" />
+        <AMK value="SIO/SIO" />
+        <SKILLS value="SIO" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd4" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_SIM_SE" />
+        <VOX value="CAR_BTL_SIM_VOX" />
+        <AMK value="" />
+        <SKILLS value="SIM" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd5" />
+        <COSTUME_ID value="0x0" />
+        <SE value="" />
+        <VOX value="CAR_BTL_SVE_VOX" />
+        <AMK value="SVE/SVE" />
+        <SKILLS value="SVE" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd6" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_SVV_SE" />
+        <VOX value="CAR_BTL_SVV_VOX" />
+        <AMK value="SVV/SVV" />
+        <SKILLS value="SVV" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd8" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_EIB_SE" />
+        <VOX value="CAR_BTL_EIB_VOX" />
+        <AMK value="EIB/EIB" />
+        <SKILLS value="EIB" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xd9" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_EIG_SE" />
+        <VOX value="CAR_BTL_EIG_VOX" />
+        <AMK value="EIG/EIG" />
+        <SKILLS value="EIG" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xda" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_EIR_SE" />
+        <VOX value="CAR_BTL_EIR_VOX" />
+        <AMK value="EIR/EIR" />
+        <SKILLS value="EIR" />
+    </CsoEntry>
+    <CsoEntry>
+        <CHAR_ID value="0xdb" />
+        <COSTUME_ID value="0x0" />
+        <SE value="CAR_BTL_EIB_SE" />
+        <VOX value="CAR_BTL_EIM_VOX" />
+        <AMK value="EIM/EIM" />
+        <SKILLS value="EIM" />
+    </CsoEntry>
+
+<CsoEntry>
+        <CHAR_ID value="0x12C" />
+        <COSTUME_ID value="0x12C" />
+        <SE value="CAR_BTL_NI2_SE" />
+        <VOX value="CAR_BTL_GKB_VOX" />
+        <AMK value="GKB/GKB" />
+        <SKILLS value="GKB" />
+    </CsoEntry></CSO>
