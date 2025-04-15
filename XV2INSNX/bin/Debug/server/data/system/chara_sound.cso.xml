@@ -1336,12 +1336,20 @@
         <AMK value="EIM/EIM" />
         <SKILLS value="EIM" />
     </CsoEntry>
-
-<CsoEntry>
-        <CHAR_ID value="0x12C" />
-        <COSTUME_ID value="0x12C" />
+    <CsoEntry>
+        <CHAR_ID value="0x12d" />
+        <COSTUME_ID value="0x12d" />
         <SE value="CAR_BTL_NI2_SE" />
         <VOX value="CAR_BTL_GKB_VOX" />
         <AMK value="GKB/GKB" />
         <SKILLS value="GKB" />
+    </CsoEntry>
+
+<CsoEntry>
+        <CHAR_ID value="0x12E" />
+        <COSTUME_ID value="0x12E" />
+        <SE value="CAR_BTL_GKS_SE" />
+        <VOX value="CAR_BTL_GKS_VOX" />
+        <AMK value="GRG/GRG" />
+        <SKILLS value="GRG" />
     </CsoEntry></CSO>

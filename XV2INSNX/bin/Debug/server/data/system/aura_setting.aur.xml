@@ -882,6 +882,7 @@
     <CharacterAura Chara_ID="217" Costume="0" Aura_ID="57" Glare="true" />
     <CharacterAura Chara_ID="218" Costume="0" Aura_ID="57" Glare="true" />
     <CharacterAura Chara_ID="219" Costume="0" Aura_ID="56" Glare="true" />
-    <CharacterAura Chara_ID="300" Costume="0" Aura_ID="0" Glare="true" />
+    <CharacterAura Chara_ID="301" Costume="0" Aura_ID="0" Glare="true" />
+    <CharacterAura Chara_ID="302" Costume="0" Aura_ID="0" Glare="true" />
   </CharacterAuras>
 </AUR>

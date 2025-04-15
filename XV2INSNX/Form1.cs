@@ -23,7 +23,7 @@ namespace XV2INSNX
     public partial class Form1 : Form
     {
         public static X2MFile file;
-        public static int cmsID = 300 + Settings.Default.modList.Count;
+        public static int cmsID;
         public static string serverRoot = Application.StartupPath + @"/server";
         public static string dataPath = serverRoot + @"/data";
         public static string AppZipFile = Application.StartupPath + @"/AppZip.zip";
@@ -57,6 +57,7 @@ namespace XV2INSNX
 
             if (file.Type != "NEW_CHARACTER")
                 return;
+            cmsID += 1;
 
             // Copia dei file nella cartella chara/
             string charaSrc = Path.Combine(TempDir, file.EntryName);
@@ -140,6 +141,9 @@ namespace XV2INSNX
 
             // CUS
             AddCUSEntry(Path.Combine(dataPath, "system", "custom_skill.cus"), file);
+
+            // QXD
+            AddQXDEntry(Path.Combine(dataPath, "quest", "CHQ", "chq_data.qxd"), file);
 
             // MSG
             string msgPath = Path.Combine(dataPath, "msg", $"proper_noun_character_name_{Settings.Default.language}.msg");
@@ -290,7 +294,38 @@ $@"  <CharaSlot>
             process.WaitForExit();
         }
 
+        public static void AddQXDEntry(string filePath, X2MFile x2m)
+        {
 
+            var psi = new ProcessStartInfo
+            {
+                FileName = "server\\data\\system\\XV2XMLSerializer.exe",
+                Arguments = "server\\data\\quest\\CHQ\\chq_data.qxd",
+                UseShellExecute = false,
+                CreateNoWindow = true
+            };
+
+            var process = Process.Start(psi);
+
+            process.WaitForExit();
+            string file = File.ReadAllText(filePath + ".xml");
+
+
+            file = file.Replace("  </NormalCharacters>\r\n", $"    <Character ID=\"{cmsID}\" Character=\"{x2m.EntryName}\">\r\n      <Costume_Index value=\"0\" />\r\n      <I_12 value=\"0\" />\r\n      <Level value=\"1\" />\r\n      <Health value=\"-1.0\" />\r\n      <Stamina_Armour value=\"-1.0\" />\r\n      <Ki value=\"-1.0\" />\r\n      <Stamina value=\"-1.0\" />\r\n      <Basic_Melee value=\"-1.0\" />\r\n      <Ki_Blast value=\"-1.0\" />\r\n      <Strike_Super value=\"-1.0\" />\r\n      <Ki_Super value=\"-1.0\" />\r\n      <Basic_Melee_Damage value=\"-1.0\" />\r\n      <Ki_Blast_Damage value=\"-1.0\" />\r\n      <Strike_Super_Damage value=\"-1.0\" />\r\n      <Ki_Super_Damage value=\"-1.0\" />\r\n      <F_68 value=\"-1.0\" />\r\n      <F_72 value=\"-1.0\" />\r\n      <Air_Speed value=\"-1.0\" />\r\n      <Boost_Speed value=\"-1.0\" />\r\n      <AI_Table ID=\"0\" />\r\n      <Transformation value=\"-1\" />\r\n      <Super_Soul value=\"65535\" />\r\n      <I_106 values=\"0, 0, 0, 0, 0, 0, 0\" />\r\n      <I_124 value=\"65535\" />\r\n      <I_126 value=\"0\" />\r\n      <Skills>\r\n        <Super_1 ID2=\"65535\" />\r\n        <Super_2 ID2=\"65535\" />\r\n        <Super_3 ID2=\"65535\" />\r\n        <Super_4 ID2=\"65535\" />\r\n        <Ultimate_1 ID2=\"65535\" />\r\n        <Ultimate_2 ID2=\"65535\" />\r\n        <Evasive ID2=\"65535\" />\r\n        <Blast_Type ID2=\"65535\" />\r\n        <Awoken ID2=\"65535\" />\r\n      </Skills>\r\n    </Character>\r\n  </NormalCharacters>");
+
+            File.WriteAllText(filePath + ".xml", file);
+
+            psi = new ProcessStartInfo
+            {
+                FileName = "server\\data\\system\\XV2XMLSerializer.exe",
+                Arguments = "server\\data\\quest\\CHQ\\chq_data.qxd.xml",
+                UseShellExecute = false,
+                CreateNoWindow = true
+            };
+
+            process = Process.Start(psi);
+            process.WaitForExit();
+        }
         public static void AddAUREntry(string filePath, X2MFile x2m)
         {
 
@@ -416,7 +451,7 @@ $@"  <CharaSlot>
             }
             if(!Directory.Exists(serverRoot) && !Directory.Exists(Application.StartupPath + @"/CPKTools"))
                 ZipFile.ExtractToDirectory(AppZipFile, Application.StartupPath);
-
+            cmsID = 300 + Settings.Default.modList.Count;
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)

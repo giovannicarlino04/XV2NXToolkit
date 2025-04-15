@@ -5503,22 +5503,6 @@
       <I_50 value="0" />
       <I_52 value="0" />
     </CharaCostumeSlot>
-    <CharaCostumeSlot CharaCode="GBG" Costume="0" Preset="0x0">
-      <UnlockIndex value="0" />
-      <flag_gk2 value="0" />
-      <CssVoice1 value="160" />
-      <CssVoice2 value="161" />
-      <DlcFlag1 value="DLC_Gkb" />
-      <DlcFlag2 value="0" />
-      <IsCustomCostume value="0" />
-      <CacIndex value="-1" />
-      <var_type_after_TU9_order value="-1" />
-      <I_40 value="-1" />
-      <I_44 value="0" />
-      <flag_cgk2 value="0" />
-      <I_50 value="0" />
-      <I_52 value="0" />
-    </CharaCostumeSlot>
   </CharaSlot>
   <CharaSlot>
     <CharaCostumeSlot CharaCode="FRS" Costume="0" Preset="0">
@@ -8132,5 +8116,40 @@
       <I_52 value="0" />
     </CharaCostumeSlot>
   </CharaSlot>
-
+  <CharaSlot>
+    <CharaCostumeSlot CharaCode="GBG" Costume="0" Preset="0">
+      <UnlockIndex value="0" />
+      <flag_gk2 value="0" />
+      <CssVoice1 value="160" />
+      <CssVoice2 value="161" />
+      <DlcFlag1 value="DLC_Def" />
+      <DlcFlag2 value="0" />
+      <IsCustomCostume value="0" />
+      <CacIndex value="-1" />
+      <var_type_after_TU9_order value="-1" />
+      <I_40 value="-1" />
+      <I_44 value="0" />
+      <flag_cgk2 value="0" />
+      <I_50 value="0" />
+      <I_52 value="0" />
+    </CharaCostumeSlot>
+  </CharaSlot>
+  <CharaSlot>
+    <CharaCostumeSlot CharaCode="GRG" Costume="0" Preset="0x0">
+      <UnlockIndex value="0" />
+      <flag_gk2 value="0" />
+      <CssVoice1 value="196" />
+      <CssVoice2 value="240" />
+      <DlcFlag1 value="DLC_Def" />
+      <DlcFlag2 value="0" />
+      <IsCustomCostume value="0" />
+      <CacIndex value="-1" />
+      <var_type_after_TU9_order value="-1" />
+      <I_40 value="-1" />
+      <I_44 value="0" />
+      <flag_cgk2 value="0" />
+      <I_50 value="0" />
+      <I_52 value="0" />
+    </CharaCostumeSlot>
+  </CharaSlot>
 </CST>

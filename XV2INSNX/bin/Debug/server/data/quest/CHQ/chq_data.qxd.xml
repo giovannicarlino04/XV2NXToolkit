@@ -1,0 +1,1906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QXD I_40="0" UnkFloats="1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0">
+  <Quests>
+    <Quest Name="CHQ_0100" ID="0">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="-1" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="0" />
+      <Start_Stage value="38" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="0" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="81920" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="-1" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="-1, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0100_Title, CHQ_0100_Success, CHQ_0100_Failure, CHQ_0100_Outline" />
+      <Qed_Files names="CHQ_0100" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0200" ID="1">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="0" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="0" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="1" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0200_Title, CHQ_0200_Success, CHQ_0200_Failure, CHQ_0200_Outline" />
+      <Qed_Files names="CHQ_0200" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0300" ID="2">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="2" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0300_Title, CHQ_0300_Success, CHQ_0300_Failure, CHQ_0300_Outline" />
+      <Qed_Files names="CHQ_0300" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0400" ID="3">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="4" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0400_Title, CHQ_0400_Success, CHQ_0400_Failure, CHQ_0400_Outline" />
+      <Qed_Files names="CHQ_0400" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0500" ID="4">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="1" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="1" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0500_Title, CHQ_0500_Success, CHQ_0500_Failure, CHQ_0500_Outline" />
+      <Qed_Files names="CHQ_0500" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0600" ID="5">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="5" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0600_Title, CHQ_0600_Success, CHQ_0600_Failure, CHQ_0600_Outline" />
+      <Qed_Files names="CHQ_0600" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0700" ID="6">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="2" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="1" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0700_Title, CHQ_0700_Success, CHQ_0700_Failure, CHQ_0700_Outline" />
+      <Qed_Files names="CHQ_0700" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0800" ID="7">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="3" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0800_Title, CHQ_0800_Success, CHQ_0800_Failure, CHQ_0800_Outline" />
+      <Qed_Files names="CHQ_0800" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0900" ID="8">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="3" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0900_Title, CHQ_0900_Success, CHQ_0900_Failure, CHQ_0900_Outline" />
+      <Qed_Files names="CHQ_0900" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_1000" ID="9">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="5" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_1000_Title, CHQ_1000_Success, CHQ_1000_Failure, CHQ_1000_Outline" />
+      <Qed_Files names="CHQ_1000" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_1100" ID="10">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="1" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="1" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_1100_Title, CHQ_1100_Success, CHQ_1100_Failure, CHQ_1100_Outline" />
+      <Qed_Files names="CHQ_1100" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_1200" ID="11">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="3" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_1200_Title, CHQ_1200_Success, CHQ_1200_Failure, CHQ_1200_Outline" />
+      <Qed_Files names="CHQ_1200" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_1300" ID="12">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="50" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="6" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="1" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="4096" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="35" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="0, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_1300_Title, CHQ_1300_Success, CHQ_1300_Failure, CHQ_1300_Outline" />
+      <Qed_Files names="CHQ_1300" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_1400" ID="13">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="-1" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="0" />
+      <Start_Stage value="38" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="0" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="81920" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="-1" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="-1, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_1400_Title, CHQ_1400_Success, CHQ_1400_Failure, CHQ_1400_Outline" />
+      <Qed_Files names="CHQ_1400" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_1500" ID="14">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="-1" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="0" />
+      <Start_Stage value="38" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="0" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="81920" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="0" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="-1, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_1500_Title, CHQ_1500_Success, CHQ_1500_Failure, CHQ_1500_Outline" />
+      <Qed_Files names="CHQ_1500" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_1600" ID="15">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="0" />
+      <Parent_Quest ID="-1" />
+      <Unlock_Requirement ID="-1" />
+      <I_44 value="0" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="0" />
+      <Start_Stage value="14" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="0" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="81920" />
+      <Update_Requirement value="UPDATE_DLC6" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="0" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="14, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="-1, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_1600_Title, CHQ_1600_Success, CHQ_1600_Failure, CHQ_1600_Outline" />
+      <Qed_Files names="CHQ_1600" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0101" ID="16">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="6" />
+      <Parent_Quest ID="0" />
+      <Unlock_Requirement ID="0" />
+      <I_44 value="1" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="0" />
+      <Start_Stage value="38" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="0" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="81920" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="-1" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="6, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0101_Title, CHQ_0101_Success, CHQ_0101_Failure, CHQ_0101_Outline" />
+      <Qed_Files names="CHQ_0101, CHQ_0101_1, CHQ_0101_2" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_0102" ID="17">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="6" />
+      <Parent_Quest ID="16" />
+      <Unlock_Requirement ID="16" />
+      <I_44 value="1" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="0" />
+      <Start_Stage value="38" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="0" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="16384" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="-1" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="6, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_0102_Title, CHQ_0102_Success, CHQ_0102_Failure, CHQ_0102_Outline" />
+      <Qed_Files names="CHQ_0102, CHQ_0102_1, CHQ_0102_2" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_1401" ID="18">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="6" />
+      <Parent_Quest ID="0" />
+      <Unlock_Requirement ID="0" />
+      <I_44 value="1" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="0" />
+      <Start_Stage value="38" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="0" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="81920" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="-1" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="6, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_1401_Title, CHQ_1401_Success, CHQ_1401_Failure, CHQ_1401_Outline" />
+      <Qed_Files names="CHQ_1401, CHQ_1401_1, CHQ_1401_2" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+    <Quest Name="CHQ_1402" ID="19">
+      <Episode value="0" />
+      <SubType value="0" />
+      <NumPlayers value="1" />
+      <I_40 value="6" />
+      <Parent_Quest ID="16" />
+      <Unlock_Requirement ID="16" />
+      <I_44 value="1" />
+      <I_46 value="0" />
+      <Time_Limit seconds="0" />
+      <Difficulty_Menu value="0" />
+      <Start_Stage value="38" />
+      <Start_Demo value="0" />
+      <Xp_Reward value="100" />
+      <Ult_Xp_Reward value="0" />
+      <Fail_Xp_Reward value="20" />
+      <Zeni_Reward value="50" />
+      <Ult_Zeni_Reward value="0" />
+      <Fail_Zeni_Reward value="10" />
+      <TP_Medals_Once value="0" />
+      <TP_Medals value="0" />
+      <TP_Medals_Special value="0" />
+      <Resistance_Points value="0" />
+      <I_192 value="1" />
+      <Flags value="0" />
+      <I_252 value="16384" />
+      <Update_Requirement value="UPDATE_ANY" />
+      <DLC_Flag value="None" />
+      <I_264 value="0" />
+      <Music No_Enemy="-1" Enemy_Near="-1" Battle="-1" Ult_Finish="-1" />
+      <F_276 value="1.0" />
+      <I_280 value="0" />
+      <NEW_I_108 value="0" />
+      <NEW_I_112 value="0" />
+      <Stage_Portrait StageIDs="38, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1" />
+      <I_48 values="6, -1, -1, -1" />
+      <I_68 values="-1, -1, -1, 0, 1" />
+      <I_232 values="0, 0, 0, 0, 0, 0, 0, 0" />
+      <MsgEntries entries="CHQ_1402_Title, CHQ_1402_Success, CHQ_1402_Failure, CHQ_1402_Outline" />
+      <Qed_Files names="CHQ_1402, CHQ_1402_1, CHQ_1402_2" />
+      <UnknownNum1>
+        <UnkNum1 values="3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum1>
+      <UnknownNum2>
+        <UnkNum2 values="1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      </UnknownNum2>
+      <EnemyPortraits>
+        <EnemyPortrait Chara_ID="65" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+        <EnemyPortrait Chara_ID="-1" Costume="0" Transformation="-1" />
+      </EnemyPortraits>
+    </Quest>
+  </Quests>
+  <NormalCharacters>
+    <Character ID="10" Character="MST">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="123" />
+      <Transformation value="-1" />
+      <Super_Soul value="187" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="2" Character="GOK">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="5.0" />
+      <Ki_Blast_Damage value="5.0" />
+      <Strike_Super_Damage value="5.0" />
+      <Ki_Super_Damage value="5.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="0" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="3" Character="SBM">
+      <Costume_Index value="3" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="4" Character="SBM">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="5" Character="SBM">
+      <Costume_Index value="5" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="6" Character="AVC">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="0" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="7" Character="SBM">
+      <Costume_Index value="1" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="8" Character="SBM">
+      <Costume_Index value="2" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="9" Character="SBM">
+      <Costume_Index value="4" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="11" Character="SBM">
+      <Costume_Index value="3" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="13" Character="VGT">
+      <Costume_Index value="9" />
+      <I_12 value="0" />
+      <Level value="50" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="116" />
+      <Transformation value="101" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="162" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="21" Character="BUZ">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="22" Character="APL">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="23" Character="RSB">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="113" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="24" Character="EL0">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="0" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="301" Character="GBG">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="0" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="302" Character="GRG">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="0" />
+      <Transformation value="-1" />
+      <Super_Soul value="65535" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="65535" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+  </NormalCharacters>  <SpecialCharacters>
+    <Character ID="1" Character="HUM">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="0" />
+      <Transformation value="-1" />
+      <Super_Soul value="187" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="0" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="65535" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="0" Character="HUM">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="1" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="0" />
+      <Transformation value="-1" />
+      <Super_Soul value="187" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="0" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="13" />
+        <Ultimate_2 ID2="0" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="20" Character="GOK">
+      <Costume_Index value="5" />
+      <I_12 value="0" />
+      <Level value="50" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="999" />
+      <Transformation value="101" />
+      <Super_Soul value="187" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="0" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="8" />
+        <Ultimate_2 ID2="2" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+    <Character ID="15" Character="HUM">
+      <Costume_Index value="0" />
+      <I_12 value="0" />
+      <Level value="50" />
+      <Health value="-1.0" />
+      <Stamina_Armour value="-1.0" />
+      <Ki value="-1.0" />
+      <Stamina value="-1.0" />
+      <Basic_Melee value="-1.0" />
+      <Ki_Blast value="-1.0" />
+      <Strike_Super value="-1.0" />
+      <Ki_Super value="-1.0" />
+      <Basic_Melee_Damage value="-1.0" />
+      <Ki_Blast_Damage value="-1.0" />
+      <Strike_Super_Damage value="-1.0" />
+      <Ki_Super_Damage value="-1.0" />
+      <F_68 value="-1.0" />
+      <F_72 value="-1.0" />
+      <Air_Speed value="-1.0" />
+      <Boost_Speed value="-1.0" />
+      <AI_Table ID="0" />
+      <Transformation value="-1" />
+      <Super_Soul value="187" />
+      <I_106 values="0, 0, 0, 0, 0, 0, 0" />
+      <I_124 value="0" />
+      <I_126 value="0" />
+      <Skills>
+        <Super_1 ID2="65535" />
+        <Super_2 ID2="65535" />
+        <Super_3 ID2="65535" />
+        <Super_4 ID2="65535" />
+        <Ultimate_1 ID2="8" />
+        <Ultimate_2 ID2="65535" />
+        <Evasive ID2="65535" />
+        <Blast_Type ID2="65535" />
+        <Awoken ID2="65535" />
+      </Skills>
+    </Character>
+  </SpecialCharacters>
+</QXD>
