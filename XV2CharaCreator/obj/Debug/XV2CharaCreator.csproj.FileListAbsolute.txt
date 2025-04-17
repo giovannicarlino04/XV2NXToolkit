@@ -1,0 +1,79 @@
+C:\Games\DB Xenoverse 2\XV2Reborn\XVCharaCreator.exe
+C:\Games\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll.config
+C:\Games\DB Xenoverse 2\XV2Reborn\XVCharaCreator.deps.json
+C:\Games\DB Xenoverse 2\XV2Reborn\XVCharaCreator.runtimeconfig.json
+C:\Games\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.Form1.resources
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.AssemblyInfoInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.AssemblyInfo.cs
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.genruntimeconfig.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XV2Reborn.Form2.resources
+D:\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.exe
+D:\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll.config
+D:\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.deps.json
+D:\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.runtimeconfig.json
+D:\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll
+D:\Games\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.exe
+D:\Games\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll.config
+D:\Games\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.deps.json
+D:\Games\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.runtimeconfig.json
+D:\Games\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.exe
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.dll.config
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.deps.json
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.runtimeconfig.json
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.dll
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XVCharaCreator.exe
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XVCharaCreator.dll.config
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XVCharaCreator.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XVCharaCreator.runtimeconfig.json
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XVCharaCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.dll
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.exe
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll.config
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.runtimeconfig.json
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.Form1.resources
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XV2Reborn.Form2.resources
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.csproj.GenerateResource.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.AssemblyInfoInputs.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.AssemblyInfo.cs
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.csproj.CoreCompileInputs.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\obj\Debug\XVCharaCreator.genruntimeconfig.cache
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.exe
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll.config
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.deps.json
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.runtimeconfig.json
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVCharaCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.exe
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.dll.config
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.deps.json
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.runtimeconfig.json
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\XVCharaCreator.pdb
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\BCnEncoder.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVCharaCreator\bin\Debug\Microsoft.Toolkit.HighPerformance.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\bin\Debug\XV2CharaCreator.exe
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\bin\Debug\XV2CharaCreator.dll.config
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\bin\Debug\XV2CharaCreator.deps.json
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\bin\Debug\XV2CharaCreator.runtimeconfig.json
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\bin\Debug\XV2CharaCreator.dll
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2CharaCreator.exe
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2CharaCreator.dll.config
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2CharaCreator.deps.json
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2CharaCreator.runtimeconfig.json
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2CharaCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\obj\Debug\XVCharaCreator.Form1.resources
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\obj\Debug\XV2CharaCreator.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\obj\Debug\XV2CharaCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\obj\Debug\XV2CharaCreator.AssemblyInfoInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\obj\Debug\XV2CharaCreator.AssemblyInfo.cs
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\obj\Debug\XV2CharaCreator.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\obj\Debug\XV2CharaCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2CharaCreator\obj\Debug\XV2CharaCreator.genruntimeconfig.cache

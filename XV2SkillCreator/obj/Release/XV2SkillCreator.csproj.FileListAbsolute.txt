@@ -1,0 +1,17 @@
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.exe
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.deps.json
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.runtimeconfig.json
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.dll
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.pdb
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.Form1.resources
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.csproj.GenerateResource.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.AssemblyInfoInputs.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.AssemblyInfo.cs
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.csproj.CoreCompileInputs.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.sourcelink.json
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\refint\XVSkillCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.pdb
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\XVSkillCreator.genruntimeconfig.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Release\ref\XVSkillCreator.dll

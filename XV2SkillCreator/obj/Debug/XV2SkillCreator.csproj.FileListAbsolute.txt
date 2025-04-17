@@ -1,0 +1,39 @@
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.exe
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.deps.json
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.runtimeconfig.json
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.dll
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVSkillCreator.pdb
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.Form1.resources
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.csproj.GenerateResource.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.AssemblyInfoInputs.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.AssemblyInfo.cs
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.csproj.CoreCompileInputs.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.sourcelink.json
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\refint\XVSkillCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.pdb
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\XVSkillCreator.genruntimeconfig.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVSkillCreator\obj\Debug\ref\XVSkillCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\bin\Debug\XV2SkillCreator.exe
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\bin\Debug\XV2SkillCreator.deps.json
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\bin\Debug\XV2SkillCreator.runtimeconfig.json
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\bin\Debug\XV2SkillCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\bin\Debug\XV2SkillCreator.pdb
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2SkillCreator.exe
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2SkillCreator.deps.json
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2SkillCreator.runtimeconfig.json
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2SkillCreator.dll
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2SkillCreator.pdb
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XVSkillCreator.Form1.resources
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XV2SkillCreator.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XV2SkillCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XV2SkillCreator.AssemblyInfoInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XV2SkillCreator.AssemblyInfo.cs
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XV2SkillCreator.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XV2SkillCreator.sourcelink.json
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XV2SkillCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\refint\XV2SkillCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XV2SkillCreator.pdb
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\XV2SkillCreator.genruntimeconfig.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2SkillCreator\obj\Debug\ref\XV2SkillCreator.dll

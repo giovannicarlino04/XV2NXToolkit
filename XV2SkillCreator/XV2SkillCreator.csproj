@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>292f0300bbddb5ad9efc10f31c452e57_1.ico</ApplicationIcon>
+	<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	  <OutputPath>C:\Users\Giovanni\Desktop\XV2REBORN</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="292f0300bbddb5ad9efc10f31c452e57_1.ico" />
+  </ItemGroup>
+
+</Project>

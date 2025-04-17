@@ -1,0 +1,16 @@
+D:\SteamLibrary\steamapps\common\DB Xenoverse\XV2Reborn\EffectData.xml
+D:\SteamLibrary\steamapps\common\DB Xenoverse\XV2Reborn\FreeImage.dll
+D:\SteamLibrary\steamapps\common\DB Xenoverse\XV2Reborn\XV2Reborn.exe.config
+D:\SteamLibrary\steamapps\common\DB Xenoverse\XV2Reborn\XV2Reborn.exe
+D:\SteamLibrary\steamapps\common\DB Xenoverse\XV2Reborn\XV2Reborn.pdb
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.csproj.AssemblyReference.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.csproj.ResolveComReference.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.Form1.resources
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.Form2.resources
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.Form3.resources
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.Properties.Resources.resources
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.csproj.GenerateResource.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.csproj.CoreCompileInputs.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.csproj.Up2Date
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.exe
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XV2Reborn\obj\Release\XV2Reborn.pdb

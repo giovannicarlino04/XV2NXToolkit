@@ -1,0 +1,60 @@
+C:\Games\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.exe
+C:\Games\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.deps.json
+C:\Games\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.runtimeconfig.json
+C:\Games\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.Form1.resources
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.AssemblyInfoInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.AssemblyInfo.cs
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.genruntimeconfig.cache
+D:\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.exe
+D:\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.deps.json
+D:\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.runtimeconfig.json
+D:\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.dll
+D:\Games\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.exe
+D:\Games\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.deps.json
+D:\Games\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.runtimeconfig.json
+D:\Games\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\bin\Debug\XVReplacerCreator.exe
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\bin\Debug\XVReplacerCreator.deps.json
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\bin\Debug\XVReplacerCreator.runtimeconfig.json
+C:\Users\Giovanni\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\bin\Debug\XVReplacerCreator.dll
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XVReplacerCreator.exe
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XVReplacerCreator.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XVReplacerCreator.runtimeconfig.json
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XVReplacerCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.dll
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.exe
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.runtimeconfig.json
+C:\Program Files (x86)\Steam\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.dll
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.Form1.resources
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.csproj.GenerateResource.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.AssemblyInfoInputs.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.AssemblyInfo.cs
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.csproj.CoreCompileInputs.cache
+C:\Users\Carli\Desktop\Repositories\XV2Reborn\XV2Reborn\XVReplacerCreator\obj\Debug\XVReplacerCreator.genruntimeconfig.cache
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.exe
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.deps.json
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.runtimeconfig.json
+D:\SteamLibrary\steamapps\common\DB Xenoverse 2\XV2Reborn\XVReplacerCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\bin\Debug\XV2ReplacerCreator.exe
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\bin\Debug\XV2ReplacerCreator.deps.json
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\bin\Debug\XV2ReplacerCreator.runtimeconfig.json
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\bin\Debug\XV2ReplacerCreator.dll
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2ReplacerCreator.exe
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2ReplacerCreator.deps.json
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2ReplacerCreator.runtimeconfig.json
+C:\Users\Giovanni\Desktop\XV2REBORN\XV2ReplacerCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\obj\Debug\XVReplacerCreator.Form1.resources
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\obj\Debug\XV2ReplacerCreator.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\obj\Debug\XV2ReplacerCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\obj\Debug\XV2ReplacerCreator.AssemblyInfoInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\obj\Debug\XV2ReplacerCreator.AssemblyInfo.cs
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\obj\Debug\XV2ReplacerCreator.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\obj\Debug\XV2ReplacerCreator.dll
+C:\Users\Giovanni\Desktop\Repositories\XV2NXToolkit\XV2ReplacerCreator\obj\Debug\XV2ReplacerCreator.genruntimeconfig.cache
